@@ -1,0 +1,31 @@
+((a,b,c)=>{a[b]=a[b]||{}
+a[b][c]=a[b][c]||[]
+a[b][c].push({p:"main.dart.js_51",e:"beginPart"})})(self,"$__dart_deferred_initializers__","eventLog")
+$__dart_deferred_initializers__.current=function(a,b,c,$){var C,D,A,E,B={
+fMx(d){return"Solo hay "+C.d(d)+"x b\xfasqueda de im\xe1genes en la versi\xf3n gratuita."},
+fPS(d){return"Solo se pueden mostrar hasta "+C.d(d)+" mensajes en la versi\xf3n gratuita."},
+h_l(d){return"Fecha de caducidad de la suscripci\xf3n "+C.d(d)},
+h9P(d){var x=null
+return"Generar ("+C.d(d)+" "+E.fZ(d,x,x,x,x,x,x,"time","times",x,x,x)+")"},
+fcK(d){return C.h(["about_openai",A.a("Acerca de"),"apply_openai",A.a("Aplicar"),"artist_openai",A.a("Artista"),"cancel_openai",A.a("Cancelar"),"chatDetail_openai",A.a("Detalle de chat"),"chatGPT_openai",A.a("Chat GPT"),"chatWithBot_openai",A.a("Chatear con Bot"),"chat_openai",A.a("Charla"),"chooseArtist_openai",A.a("Elige artista para tu imagen"),"chooseDetail_openai",A.a("Elige detalle para tu imagen"),"chooseMedium_openai",A.a("Elija el medio para su imagen"),"chooseMood_openai",A.a("Elija el estado de \xe1nimo para su imagen"),"chooseUseCase_openai",A.a("Elegir caso de uso"),"choseStyle_openai",A.a("Elige el estilo para tu imagen"),"clearConfirm_openai",A.a("\xbfEst\xe1s seguro de borrar el contenido?"),"clearContent_openai",A.a("Borrar contenido"),"clearConversation_openai",A.a("Conversaci\xf3n clara"),"clear_openai",A.a("Claro"),"confirmDeleteItem_openai",A.a("\xbfEst\xe1s seguro de que deseas eliminar este art\xedculo?"),"confirmDelete_openai",A.a("Confirme si desea continuar con la eliminaci\xf3n de este elemento. No puede deshacer esta acci\xf3n."),"confirmRemoveKey_openai",A.a("\xbfEst\xe1s seguro de quitar la llave?"),"confirm_openai",A.a("Confirmar"),"copiedToClipboard_openai",A.a("Contenido copiado al portapapeles"),"copy_openai",A.a("Dupdo"),"createChatFailed_openai",A.a("No se pudo crear el chat"),"deleteFailed_openai",A.a("Eliminar fallido"),"delete_openai",A.a("Borrar"),"detail_openai",A.a("Detalle"),"download_openai",A.a("Descargar"),"edit_openai",A.a("Editar"),"failedToGenerate_openai",A.a("Error al generar"),"generate_openai",A.a("Generar"),"grid_openai",A.a("Cuadr\xedcula"),"imageGenerate_openai",A.a("Generar imagen"),"imageSize_openai",A.a("Tama\xf1o de la imagen"),"inputKey_openai",A.a("Clave de entrada"),"interest_openai",A.a("Interesar"),"introAboutKey_openai",A.a("Su clave API se almacena localmente en su dispositivo m\xf3vil y nunca se env\xeda a ning\xfan otro lugar. Puede guardar su clave para usarla m\xe1s tarde. Tambi\xe9n puede quitar su llave si ya no quiere usarla."),"invalidKey_openai",A.a("Tecla inv\xe1lida"),"jobRole_openai",A.a("Puesto de trabajo"),"jobSkills_openai",A.a("Habilidades de trabajo"),"layoutStyle_openai",A.a("Estilo de Dise\xf1o"),"limitImage_openai",B.il7(),"limitTheText_openai",B.il8(),"listening_openai",A.a("Escuchando..."),"loadKeyFailed_openai",A.a("Error al cargar la clave"),"loadKeySuccess_openai",A.a("Cargar clave correcta"),"manage_openai",A.a("Gestionar"),"medium_openai",A.a("Medio"),"mood_openai",A.a("Estado animico"),"moreOptions_openai",A.a("Mas opciones"),"newChat_openai",A.a("Nueva conversacion"),"noImageGenerate_openai",A.a("No se genera imagen"),"numberOfImagesCondition_openai",A.a("El n\xfamero de im\xe1genes a generar. Debe estar entre 1 y 10."),"numberOfImages_openai",A.a("N\xfamero de im\xe1genes"),"options_openai",A.a("Opciones"),"page_openai",A.a("P\xe1gina"),"pleaseCheckConnection_openai",A.a("\xa1Por favor, compruebe la conexi\xf3n y vuelva a intentarlo!"),"pleaseInputFillAllFields_openai",A.a("Por favor rellena todos los campos"),"pleaseInputKey_openai",A.a("Por favor ingrese la clave"),"prompt_openai",A.a("R\xe1pido"),"putKeyHere_openai",A.a("Pon tu llave aqu\xed"),"regenerateResponse_openai",A.a("Regenerar respuesta"),"remaining_openai",A.a("Restante"),"removeKeyFailed_openai",A.a("No se pudo quitar la clave"),"removeKeySuccess_openai",A.a("Clave eliminada con \xe9xito"),"remove_openai",A.a("retirar"),"resetSettings_openai",A.a("Reiniciar ajustes"),"reset_openai",A.a("Reiniciar"),"saveKeyFailed_openai",A.a("Guardar clave fallida"),"saveKeySuccess_openai",A.a("Clave guardada con \xe9xito"),"saveKey_openai",A.a("Guardar clave"),"save_openai",A.a("Salvar"),"searchByPrompt_openai",A.a("Buscar por solicitud..."),"sectionKeywords_openai",A.a("Palabras clave de la secci\xf3n"),"sectionTopic_openai",A.a("Secci\xf3n Tema"),"selectChatFailed_openai",A.a("Seleccionar chat fallido"),"selectPrompt_openai",A.a("Seleccionar mensaje"),"settings_openai",A.a("Ajustes"),"share_openai",A.a("Compartir"),"skills_openai",A.a("Habilidades"),"somethingWentWrong_openai",A.a("\xa1\xa1\xa1Algo sali\xf3 mal!!!"),"somethingWhenWrong_openai",A.a("\xa1Algo sali\xf3 mal! Por favor, int\xe9ntelo de nuevo m\xe1s tarde. \xa1Muchas gracias!"),"speechNotAvailable_openai",A.a("Voz no disponible"),"style_openai",A.a("estilo"),"subscriptionExpiredDate_openai",B.il9(),"tapTheMicToTalk_openai",A.a("Toca el micr\xf3fono para hablar"),"textGenerate_openai",A.a("Generar texto"),"textGenerator_openai",A.a("Generador de texto"),"timeGenerate_openai",B.ila(),"typeAMessage_openai",A.a("Escribe un mensaje ..."),"viewType_openai",A.a("Tipo de vista"),"view_openai",A.a("Ver"),"write_openai",A.a("escribir")],y.g,y.a)},
+bCq:function bCq(d){this.a=d}}
+C=c[0]
+D=c[113]
+A=c[112]
+E=c[111]
+B=a.updateHolder(c[69],B)
+B.bCq.prototype={
+gcj(){return"es"},
+gbZ(){return this.a}}
+var z=a.updateTypes(["j(@)","T<j,aB>(@)"]);(function installTearOffs(){var x=a._static_1
+x(B,"il7","fMx",0)
+x(B,"il8","fPS",0)
+x(B,"il9","h_l",0)
+x(B,"ila","h9P",0)
+x(B,"il6","fcK",1)})();(function inheritance(){var x=a.inherit
+x(B.bCq,D.b4)})()
+C.cG(b.typeUniverse,JSON.parse('{"bCq":{"b4":[]}}'))
+var y={a:C.S("aB"),g:C.S("j")};(function lazyInitializers(){var x=a.lazyFinal
+x($,"jPG","fz8",()=>new B.bCq(B.fcK(B.il6())))})()};
+((a,b)=>{a[b]=a.current
+a.eventLog.push({p:"main.dart.js_51",e:"endPart",h:b})})($__dart_deferred_initializers__,"tLt1GvIQbafUrW6QfubPpVgDQK8=");

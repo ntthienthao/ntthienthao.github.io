@@ -1,0 +1,31 @@
+((a,b,c)=>{a[b]=a[b]||{}
+a[b][c]=a[b][c]||[]
+a[b][c].push({p:"main.dart.js_62",e:"beginPart"})})(self,"$__dart_deferred_initializers__","eventLog")
+$__dart_deferred_initializers__.current=function(a,b,c,$){var C,D,A,E,B={
+fMz(d){return"Ilmaisessa versiossa on vain "+C.d(d)+"x kuvahaku."},
+fPU(d){return"Enint\xe4\xe4n "+C.d(d)+" viesti\xe4 voidaan n\xe4ytt\xe4\xe4 vain ilmaisessa versiossa."},
+h_n(d){return"Tilauksen p\xe4\xe4ttymisp\xe4iv\xe4 "+C.d(d)},
+h9R(d){var x=null
+return"Luo ("+C.d(d)+" "+E.fZ(d,x,x,x,x,x,x,"time","times",x,x,x)+")"},
+fcI(d){return C.h(["about_openai",A.a("Noin"),"apply_openai",A.a("K\xe4yt\xe4"),"artist_openai",A.a("Taiteilija"),"cancel_openai",A.a("Peruuttaa"),"chatDetail_openai",A.a("Keskustelun yksityiskohdat"),"chatGPT_openai",A.a("Chat GPT"),"chatWithBot_openai",A.a("Keskustele Botin kanssa"),"chat_openai",A.a("jutella"),"chooseArtist_openai",A.a("Valitse kuvallesi taiteilija"),"chooseDetail_openai",A.a("Valitse kuvasi yksityiskohdat"),"chooseMedium_openai",A.a("Valitse v\xe4line kuvallesi"),"chooseMood_openai",A.a("Valitse kuvallesi tunnelma"),"chooseUseCase_openai",A.a("Valitse k\xe4ytt\xf6tapaus"),"choseStyle_openai",A.a("Valitse kuvallesi tyyli"),"clearConfirm_openai",A.a("Oletko varma, ett\xe4 tyhjenn\xe4t sis\xe4ll\xf6n?"),"clearContent_openai",A.a("Selke\xe4 sis\xe4lt\xf6"),"clearConversation_openai",A.a("Selke\xe4 keskustelu"),"clear_openai",A.a("Asia selv\xe4"),"confirmDeleteItem_openai",A.a("Haluatko varmasti poistaa t\xe4m\xe4n kohteen?"),"confirmDelete_openai",A.a("Vahvista, jos haluat jatkaa t\xe4m\xe4n kohteen poistamista. T\xe4t\xe4 toimintoa ei voi kumota."),"confirmRemoveKey_openai",A.a("Oletko varma, ett\xe4 poistat avaimen?"),"confirm_openai",A.a("Vahvistaa"),"copiedToClipboard_openai",A.a("Sis\xe4lt\xf6 kopioitu leikep\xf6yd\xe4lle"),"copy_openai",A.a("kopio"),"createChatFailed_openai",A.a("Chatin luominen ep\xe4onnistui"),"deleteFailed_openai",A.a("Poista ep\xe4onnistui"),"delete_openai",A.a("Poistaa"),"detail_openai",A.a("Yksityiskohta"),"download_openai",A.a("Ladata"),"edit_openai",A.a("muokata"),"failedToGenerate_openai",A.a("Luominen ep\xe4onnistui"),"generate_openai",A.a("Tuottaa"),"grid_openai",A.a("ruudukko"),"imageGenerate_openai",A.a("Kuvan luominen"),"imageSize_openai",A.a("Kuvan koko"),"inputKey_openai",A.a("Sy\xf6tt\xf6avain"),"interest_openai",A.a("Kiinnostuksen kohde"),"introAboutKey_openai",A.a("API-avaimesi tallennetaan paikallisesti matkapuhelimeesi, eik\xe4 sit\xe4 koskaan l\xe4hetet\xe4 minnek\xe4\xe4n muualle. Voit tallentaa avaimesi k\xe4ytt\xe4\xe4ksesi sit\xe4 my\xf6hemmin. Voit my\xf6s poistaa avaimen, jos et halua k\xe4ytt\xe4\xe4 sit\xe4 en\xe4\xe4."),"invalidKey_openai",A.a("Virheellinen avain"),"jobRole_openai",A.a("Ty\xf6 rooli"),"jobSkills_openai",A.a("Ty\xf6taidot"),"layoutStyle_openai",A.a("Asettelutyyli"),"limitImage_openai",B.iok(),"limitTheText_openai",B.iol(),"listening_openai",A.a("Kuuntelee..."),"loadKeyFailed_openai",A.a("Avaimen lataus ep\xe4onnistui"),"loadKeySuccess_openai",A.a("Avaimen lataus onnistui"),"manage_openai",A.a("hoitaa"),"medium_openai",A.a("keskikokoinen"),"mood_openai",A.a("Mieliala"),"moreOptions_openai",A.a("Lis\xe4\xe4 vaihtoehtoja"),"newChat_openai",A.a("Uusi Chat"),"noImageGenerate_openai",A.a("Ei kuvan luomista"),"numberOfImagesCondition_openai",A.a("Luotavien kuvien m\xe4\xe4r\xe4. On oltava v\xe4lill\xe4 1\u201310."),"numberOfImages_openai",A.a("Kuvien m\xe4\xe4r\xe4"),"options_openai",A.a("vaihtoehdot"),"page_openai",A.a("Sivu"),"pleaseCheckConnection_openai",A.a("Tarkista yhteys ja yrit\xe4 uudelleen!"),"pleaseInputFillAllFields_openai",A.a("T\xe4yt\xe4 kaikki kent\xe4t"),"pleaseInputKey_openai",A.a("Ole hyv\xe4 ja sy\xf6t\xe4 avain"),"prompt_openai",A.a("nopea"),"putKeyHere_openai",A.a("Laita avaimesi t\xe4h\xe4n"),"regenerateResponse_openai",A.a("Luo vastaus uudelleen"),"remaining_openai",A.a("J\xe4ljelle j\xe4\xe4nyt"),"removeKeyFailed_openai",A.a("Avaimen poisto ep\xe4onnistui"),"removeKeySuccess_openai",A.a("Avain poistettu onnistuneesti"),"remove_openai",A.a("Poistaa"),"resetSettings_openai",A.a("Palauta asetukset"),"reset_openai",A.a("asettaa uudelleen"),"saveKeyFailed_openai",A.a("Tallennusavain ep\xe4onnistui"),"saveKeySuccess_openai",A.a("Avain tallennettu onnistuneesti"),"saveKey_openai",A.a("Tallenna avain"),"save_openai",A.a("Tallentaa"),"searchByPrompt_openai",A.a("Hae kehotteen perusteella..."),"sectionKeywords_openai",A.a("Osion Avainsanat"),"sectionTopic_openai",A.a("Osion aihe"),"selectChatFailed_openai",A.a("Valitse Chat Failed"),"selectPrompt_openai",A.a("Valitse Kehote"),"settings_openai",A.a("asetukset"),"share_openai",A.a("Jaa"),"skills_openai",A.a("Taidot"),"somethingWentWrong_openai",A.a("Jotain meni pieleen!!!"),"somethingWhenWrong_openai",A.a("Jotain meni pieleen! Yrit\xe4 uudelleen my\xf6hemmin. Kiitos paljon!"),"speechNotAvailable_openai",A.a("Puhe ei ole k\xe4ytett\xe4viss\xe4"),"style_openai",A.a("Tyyli"),"subscriptionExpiredDate_openai",B.iom(),"tapTheMicToTalk_openai",A.a("Napauta mikrofonia puhuaksesi"),"textGenerate_openai",A.a("Tekstin luominen"),"textGenerator_openai",A.a("Tekstigeneraattori"),"timeGenerate_openai",B.ion(),"typeAMessage_openai",A.a("Kirjoita viesti ..."),"viewType_openai",A.a("N\xe4kym\xe4n tyyppi"),"view_openai",A.a("n\xe4kym\xe4"),"write_openai",A.a("kirjoittaa")],y.g,y.a)},
+bCo:function bCo(d){this.a=d}}
+C=c[0]
+D=c[113]
+A=c[112]
+E=c[111]
+B=a.updateHolder(c[71],B)
+B.bCo.prototype={
+gcj(){return"fi"},
+gbZ(){return this.a}}
+var z=a.updateTypes(["j(@)","T<j,aB>(@)"]);(function installTearOffs(){var x=a._static_1
+x(B,"iok","fMz",0)
+x(B,"iol","fPU",0)
+x(B,"iom","h_n",0)
+x(B,"ion","h9R",0)
+x(B,"ioj","fcI",1)})();(function inheritance(){var x=a.inherit
+x(B.bCo,D.b4)})()
+C.cG(b.typeUniverse,JSON.parse('{"bCo":{"b4":[]}}'))
+var y={a:C.S("aB"),g:C.S("j")};(function lazyInitializers(){var x=a.lazyFinal
+x($,"jPI","fza",()=>new B.bCo(B.fcI(B.ioj())))})()};
+((a,b)=>{a[b]=a.current
+a.eventLog.push({p:"main.dart.js_62",e:"endPart",h:b})})($__dart_deferred_initializers__,"OOyaP7mWurW3KKBcT7kpiC3P9zY=");

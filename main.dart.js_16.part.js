@@ -1,0 +1,31 @@
+((a,b,c)=>{a[b]=a[b]||{}
+a[b][c]=a[b][c]||[]
+a[b][c].push({p:"main.dart.js_16",e:"beginPart"})})(self,"$__dart_deferred_initializers__","eventLog")
+$__dart_deferred_initializers__.current=function(a,b,c,$){var C,B={
+fMq(d){return"U besplatnoj verziji postoji samo "+C.d(d)+"x pretraga slika."},
+fPK(d){return"Do "+C.d(d)+" poruka se mo\u017ee prikazati samo u besplatnoj verziji."},
+h_d(d){return"Datum isteka pretplate "+C.d(d)},
+h9H(d){var x=null
+return"Generiraj ("+C.d(d)+" "+E.fZ(d,x,x,x,x,x,x,"time","times",x,x,x)+")"},
+fbb(d){return C.h(["about_openai",A.a("O nama"),"apply_openai",A.a("Prijavite se"),"artist_openai",A.a("Umjetnik"),"cancel_openai",A.a("Odustani"),"chatDetail_openai",A.a("Chat Detail"),"chatGPT_openai",A.a("Chat GPT"),"chatWithBot_openai",A.a("Razgovarajte sa Botom"),"chat_openai",A.a("Chat"),"chooseArtist_openai",A.a("Odaberite izvo\u0111a\u010da za svoju sliku"),"chooseDetail_openai",A.a("Odaberite detalje za svoju sliku"),"chooseMedium_openai",A.a("Odaberite medij za svoju sliku"),"chooseMood_openai",A.a("Odaberite raspolo\u017eenje za svoju sliku"),"chooseUseCase_openai",A.a("Odaberite slu\u010daj upotrebe"),"choseStyle_openai",A.a("Odaberite stil za svoju sliku"),"clearConfirm_openai",A.a("Jeste li sigurni da obri\u0161ete sadr\u017eaj?"),"clearContent_openai",A.a("Jasan sadr\u017eaj"),"clearConversation_openai",A.a("O\u010disti razgovor"),"clear_openai",A.a("Jasno"),"confirmDeleteItem_openai",A.a("Jeste li sigurni da \u017eelite izbrisati ovu stavku?"),"confirmDelete_openai",A.a("Molimo potvrdite da li \u017eelite nastaviti sa brisanjem ove stavke. Ne mo\u017eete poni\u0161titi ovu radnju."),"confirmRemoveKey_openai",A.a("Jeste li sigurni da \u0107ete ukloniti klju\u010d?"),"confirm_openai",A.a("Potvrdi"),"copiedToClipboard_openai",A.a("Sadr\u017eaj je kopiran u me\u0111uspremnik"),"copy_openai",A.a("copy"),"createChatFailed_openai",A.a("Kreiranje \u0107askanja nije uspjelo"),"deleteFailed_openai",A.a("Brisanje nije uspjelo"),"delete_openai",A.a("Izbri\u0161i"),"detail_openai",A.a("Detalj"),"download_openai",A.a("Skinuti"),"edit_openai",A.a("Uredi"),"failedToGenerate_openai",A.a("Generiranje nije uspjelo"),"generate_openai",A.a("Generiraj"),"grid_openai",A.a("Grid"),"imageGenerate_openai",A.a("Generiranje slike"),"imageSize_openai",A.a("Veli\u010dina slike"),"inputKey_openai",A.a("Taster za unos"),"interest_openai",A.a("Interes"),"introAboutKey_openai",A.a("Va\u0161 API klju\u010d se pohranjuje lokalno na va\u0161em mobilnom telefonu i nikada se ne \u0161alje nigdje drugdje. Mo\u017eete sa\u010duvati svoj klju\u010d da ga kasnije koristite. Tako\u0111er mo\u017eete ukloniti svoj klju\u010d ako ga vi\u0161e ne \u017eelite koristiti."),"invalidKey_openai",A.a("Neva\u017ee\u0107i klju\u010d"),"jobRole_openai",A.a("Poslovna uloga"),"jobSkills_openai",A.a("Ve\u0161tine posla"),"layoutStyle_openai",A.a("Layout Style"),"limitImage_openai",B.idp(),"limitTheText_openai",B.idq(),"listening_openai",A.a("slu\u0161am..."),"loadKeyFailed_openai",A.a("U\u010ditavanje klju\u010da nije uspjelo"),"loadKeySuccess_openai",A.a("U\u010ditavanje klju\u010da uspje\u0161no"),"manage_openai",A.a("Upravljajte"),"medium_openai",A.a("Srednje"),"mood_openai",A.a("Raspolo\u017eenje"),"moreOptions_openai",A.a("Vi\u0161e opcija"),"newChat_openai",A.a("Novo \u0107askanje"),"noImageGenerate_openai",A.a("Nema generiranja slike"),"numberOfImagesCondition_openai",A.a("Broj slika za generiranje. Mora biti izme\u0111u 1 i 10."),"numberOfImages_openai",A.a("Broj slika"),"options_openai",A.a("Opcije"),"page_openai",A.a("Page"),"pleaseCheckConnection_openai",A.a("Provjerite svoju vezu i poku\u0161ajte ponovo!"),"pleaseInputFillAllFields_openai",A.a("Molimo popunite sva polja"),"pleaseInputKey_openai",A.a("Unesite klju\u010d"),"prompt_openai",A.a("Prompt"),"putKeyHere_openai",A.a("Stavi svoj klju\u010d ovdje"),"regenerateResponse_openai",A.a("Regeneracija odgovora"),"remaining_openai",A.a("preostali"),"removeKeyFailed_openai",A.a("Uklanjanje klju\u010da nije uspjelo"),"removeKeySuccess_openai",A.a("Klju\u010d je uspje\u0161no uklonjen"),"remove_openai",A.a("Ukloni"),"resetSettings_openai",A.a("Poni\u0161ti postavke"),"reset_openai",A.a("Resetovati"),"saveKeyFailed_openai",A.a("\u010cuvanje klju\u010da nije uspjelo"),"saveKeySuccess_openai",A.a("Klju\u010d je uspje\u0161no sa\u010duvan"),"saveKey_openai",A.a("Sa\u010duvaj klju\u010d"),"save_openai",A.a("Spremi"),"searchByPrompt_openai",A.a("Tra\u017ei po upitu..."),"sectionKeywords_openai",A.a("Sekcija Klju\u010dne rije\u010di"),"sectionTopic_openai",A.a("Tema odjeljka"),"selectChatFailed_openai",A.a("Odaberite Chat nije uspio"),"selectPrompt_openai",A.a("Odaberite Prompt"),"settings_openai",A.a("Pode\u0161avanja"),"share_openai",A.a("Podijeli"),"skills_openai",A.a("Vje\u0161tine"),"somethingWentWrong_openai",A.a("Ne\u0161to je po\u0161lo po zlu!!!"),"somethingWhenWrong_openai",A.a("Ne\u0161to je po\u0161lo po zlu! Molimo poku\u0161ajte ponovo kasnije. Hvala ti puno!"),"speechNotAvailable_openai",A.a("Govor nije dostupan"),"style_openai",A.a("Stil"),"subscriptionExpiredDate_openai",B.idr(),"tapTheMicToTalk_openai",A.a("Dodirnite mikrofon za razgovor"),"textGenerate_openai",A.a("Generiranje teksta"),"textGenerator_openai",A.a("Text Generator"),"timeGenerate_openai",B.ids(),"typeAMessage_openai",A.a("Upi\u0161ite poruku..."),"viewType_openai",A.a("Vrsta pogleda"),"view_openai",A.a("Pogled"),"write_openai",A.a("Pisati")],y.g,y.a)},
+bAS:function bAS(d){this.a=d}},D,A,E
+C=c[0]
+B=a.updateHolder(c[63],B)
+D=c[113]
+A=c[112]
+E=c[111]
+B.bAS.prototype={
+gcj(){return"bs"},
+gbZ(){return this.a}}
+var z=a.updateTypes(["j(@)","T<j,aB>(@)"]);(function installTearOffs(){var x=a._static_1
+x(B,"idp","fMq",0)
+x(B,"idq","fPK",0)
+x(B,"idr","h_d",0)
+x(B,"ids","h9H",0)
+x(B,"ido","fbb",1)})();(function inheritance(){var x=a.inherit
+x(B.bAS,D.b4)})()
+C.cG(b.typeUniverse,JSON.parse('{"bAS":{"b4":[]}}'))
+var y={a:C.S("aB"),g:C.S("j")};(function lazyInitializers(){var x=a.lazyFinal
+x($,"jPz","fz1",()=>new B.bAS(B.fbb(B.ido())))})()};
+((a,b)=>{a[b]=a.current
+a.eventLog.push({p:"main.dart.js_16",e:"endPart",h:b})})($__dart_deferred_initializers__,"cxpkScLZc9TbsQgzCV6HurwnMzE=");
